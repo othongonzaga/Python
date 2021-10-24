@@ -1,0 +1,1 @@
+Crie um programa que leia quantos reias o usuário tem e mostre quantos dólares ela tem
