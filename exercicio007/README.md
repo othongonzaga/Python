@@ -1,0 +1,1 @@
+Desenvolva um programa que leia duas notas e mostre a média aritmédica
