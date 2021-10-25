@@ -1,0 +1,1 @@
+Faça um programa que leia o preço de um produto e aplique desconto de 10% ou aumento de 8% se o mesmo for comprado à vista ou parcelado
